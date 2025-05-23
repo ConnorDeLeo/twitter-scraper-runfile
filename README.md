@@ -1,6 +1,9 @@
 # twitter scraper runfile
  A bash run file to let people easily run a twitter scraper by godkingjay (https://github.com/godkingjay/selenium-twitter-scraper)
 
+## requirements
+git bash (https://git-scm.com/downloads)
+
 ## usage
 place both `pyInstaller.bash` and `runfile.bash` inside the folder containing the twitter scraper
 
